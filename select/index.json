@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイマイモコ(Inori Minase LIVE TOUR 2023 SCRAP ART)",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2026-01-12T12:25:09.331936Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイマイモコ(Inori Minase LIVE TOUR 2021 HELLO HORIZON)",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_アイマイモコ(Inori_Minase_LIVE_TOUR_2021_HELLO_HORIZON)_水瀬いのり.txt"
+    }
+  ]
+}
